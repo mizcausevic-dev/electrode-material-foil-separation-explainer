@@ -11,40 +11,40 @@
       "glyph": "cell",
       "label": "Professionally prepared battery feed",
       "role": "path",
-      "x": 0.5,
-      "y": 0.16
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "foil",
       "label": "Electrode structures",
       "role": "path",
-      "x": 0.5,
-      "y": 0.277
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "powder",
       "label": "Active material",
       "role": "path",
-      "x": 0.5,
-      "y": 0.393
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "mirror",
       "label": "Collectors conceptually",
       "role": "path",
-      "x": 0.5,
-      "y": 0.51
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "foil",
       "label": "Foil",
       "role": "path",
-      "x": 0.5,
-      "y": 0.627
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
@@ -52,15 +52,15 @@
       "label": "Active-material streams",
       "role": "path",
       "x": 0.5,
-      "y": 0.743
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "warning",
       "label": "Contamination",
       "role": "path",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
